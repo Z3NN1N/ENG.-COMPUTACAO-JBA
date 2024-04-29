@@ -8,7 +8,7 @@ As Atividades propostas estão todas desenvolvidas em C ( linguagem de programa�
 - Conhecimento sobre a Linguagem C.
 
   Obrigado por ler essa breve apresentação do meu repositorio e obrigado por ler e verem meu codigo!!
-===========================================
+===================================================
   **Gabriel D. Besbati**
   **_System-Developer_**
   **_Contato profissional:_** gabriel.dart.Besbati@gmail.com
