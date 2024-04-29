@@ -1,4 +1,4 @@
-# Projects-Eng-Computa-o
+# Projects-Eng-Comp.:
 Esses Projetos foram desenvolvidos Por Gabriel D. Besbati - Aluno de Kleyton Hoffmann - Curso: Engenharia da Computação - UNOESC/SC.
 Segue dentro desse repositorio algumas atividades desenvolvido como um trabalho avaliativo.
 As Atividades propostas estão todas desenvolvidas em C ( linguagem de programação), com o intuito de nos auxiliar no aprendizado e desenvolvimento da:
