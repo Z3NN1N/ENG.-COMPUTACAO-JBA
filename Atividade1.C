@@ -12,7 +12,7 @@ int main(void) {
 
   printf("==================================================================\n\n");
   printf("\t\t\t.: Seja Bem vindo ! :.\n");
-  printf("\t\tAluno: Gabriel D. Besbati\n");
+  printf("\t\tAluno: Gabriel D. Besbati \n");
   printf("\t\tEmail de contato: gdbesbati@gmail.com\n");
   printf("\t\t\tProfessor: Kleyton Hoffmann.\n\n");
   
