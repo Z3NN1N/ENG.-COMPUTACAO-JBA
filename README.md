@@ -12,4 +12,4 @@ As Atividades propostas est√£o todas desenvolvidas em C ( linguagem de programa√
   **Gabriel D. Besbati**
   **_System-Developer_**
   **_Contato profissional:_** gabriel.dart.Besbati@gmail.com
-===========================================
+===================================================
